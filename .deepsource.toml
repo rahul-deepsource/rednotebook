@@ -7,4 +7,3 @@ enabled = true
 [[analyzers]]
 name = "go"
 enabled = true
-
